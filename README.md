@@ -16,7 +16,10 @@ In our devised method, Artificial Intelligence is employed to process these imag
 
 
 
-https://github.com/Edanurkoroglu/nasa-tredesonif/assets/90872488/dcb68a52-7250-426a-872a-5e31be163f43
+# Tredosonif App will be with you soon!
+
+https://github.com/Edanurkoroglu/nasa-tredesonif/assets/90872488/c1d6edb5-e9f6-4eeb-abac-23bb39b15fd7
+
 
 
 
