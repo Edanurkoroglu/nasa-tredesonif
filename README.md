@@ -13,6 +13,14 @@ The goal is to convert three-dimensional images obtained from NASA's state-of-th
 
 In our devised method, Artificial Intelligence is employed to process these images, facilitating the understanding of the emotional responses these images would evoke in a human observer. Subsequently, to convey these emotions to visually impaired individuals in the most precise and emotionally resonant manner, the aforementioned variables are integrated into our methodology. Moreover, the perception of depth and motion, which is a significant distinction between three-dimensional and two-dimensional imagery, plays a pivotal role in our approach. To enhance this perception, certain functions within the method are reiterated at predetermined intervals. When utilizing this method, it is recommended that users employ high-fidelity technology and headphones to better discern the depth perception.
 
+
+
+
+https://github.com/Edanurkoroglu/nasa-tredesonif/assets/90872488/dcb68a52-7250-426a-872a-5e31be163f43
+
+
+
+
 # Resources
 1. https://www.spaceappschallenge.org/
 2. https://www.science.org/content/article/meet-scientist-who-turns-data-music-and-listen-sound-neutron-star
